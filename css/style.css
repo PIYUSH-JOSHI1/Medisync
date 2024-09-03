@@ -3482,6 +3482,7 @@ ul {
 /* line 2, ../../01 cl html template/03_jun 2019/182_medico_html/sass/_regervation_part.scss */
 .regervation_part {
   background-image: url("../img/reservation_bg.png");
+
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -5957,7 +5958,8 @@ h1, h2, h3, h4, h5, h6 {
 
 /* line 1, ../../01 cl html template/03_jun 2019/182_medico_html/sass/_breadcrumb.scss */
 .breadcrumb_bg {
-  background-image: url("../img/breadcrumb.png");
+  /* background-image: url("../img/breadcrumb.png"); */
+  background-color: #0065e1;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
